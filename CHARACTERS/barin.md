@@ -1,6 +1,6 @@
 #  Кличка: Барин
 
-![Фото Барина]![Uploading image.png…]()
+![Фото Барина]<img width="1065" height="1280" alt="image" src="https://github.com/user-attachments/assets/388190bd-54d6-4c0c-929d-909a42a4171e" />
 
 
 ---
