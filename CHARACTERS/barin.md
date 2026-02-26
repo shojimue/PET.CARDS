@@ -1,6 +1,7 @@
 #  Кличка: Барин
 
-![Фото Барина](https://via.placeholder.com/400x300?text=Snowball+Rabbit)
+![Фото Барина]![Uploading image.png…]()
+
 
 ---
 
