@@ -1,6 +1,6 @@
 #  Кличка: Саша
 
-![Фото Рекса] <img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/73985308-a6f8-48b9-85d0-7cd6679f23c8" />
+![Фото Саши] <img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/73985308-a6f8-48b9-85d0-7cd6679f23c8" />
 
 ---
 
